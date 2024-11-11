@@ -4,7 +4,7 @@ Hi 👋 My name is Gourav
 Software Engineer
 -----------------
 
-I've been doing coding from the past 3 years and really found it life changing. My ability to tackle any problem has improved a lot after coding , I have found my passion in backend development but , i also love to create interactive and please UI.
+I've been doing coding from the past 3 years and really found it life changing. My ability to tackle any problem has improved a lot after coding , I have found my passion in backend development but , i also love to create interactive and pleasing UI.
 
 * 🌍  I'm based in Chandigarh, India
 * ✉️  You can contact me at [ranagaurav687@gmail.com](mailto:ranagaurav687@gmail.com)
